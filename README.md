@@ -9,3 +9,4 @@ Krishan Hour Log:
 Matt Hour Log:
 
 1.5 Hr Monday morning- installing EEG lab/starting tutorial, examining dataset
+1 hr setting up github repo

@@ -10,6 +10,7 @@ Week 1
 2 Hours Monday Downloading and Setting Up EEG Lab, Importing Data, Graphing EEG using EEG Lab, planning next steps
 2 Hours Tuesday figuring out how to classify existing EEG data between spindle set and whole recording
 2.5 Hours Wednesday extracting summary stats from each spindle
+2 Hours Thursday going back and redoing cleaning because initially included commas didn't work numerically
 
 
 Matt Hour Log:

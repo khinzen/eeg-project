@@ -6,7 +6,7 @@ stats_ec = zeros(1, ((width*2)+1));
 counter = 0;
 for ii = [1:256:(length-257)]
     block = input_set([ii:(ii+255)],:);
-    row = [mean(block) std(block) 1]
+    row = [mean(block) std(block) 0]
     size(row)
     size(stats_ec)
     stats_ec = [stats_ec; row];

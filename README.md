@@ -13,6 +13,7 @@ Week 1
 2 Hours Thursday going back and redoing cleaning because initially included commas didn't work numerically
 1 hour Friday getting new dataset
 30 min Sunday importing data set
+1 hours Monday analyzing new eyes closed dataset
 
 Matt Hour Log:
 

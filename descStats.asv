@@ -1,0 +1,10 @@
+function [stats_ec] = descStats[input_set]
+
+[length, width] = size(input_set)
+
+stats_ec = zeros(1, width)
+
+for ii = [1:256:length]
+    block = [input_set([ii:(ii+255)],:)]
+    stats_ec = [stats_ec mean(block) std(block) 1]
+end

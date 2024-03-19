@@ -14,6 +14,7 @@ Week 1
 1 hour Friday getting new dataset
 30 min Sunday importing data set
 1 hours Monday analyzing new eyes closed dataset
+2 hours eyes closed analysis and PCA and logistic regression research
 
 Matt Hour Log:
 

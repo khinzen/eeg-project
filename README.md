@@ -19,5 +19,14 @@ Week 1
 
 Matt Hour Log:
 
+Week 1:
 1.5 Hr Monday morning- installing EEG lab/starting tutorial, examining dataset
 1 hr setting up github repo
+2 hr tuesday figuring out how to classify existing EEG data between spindle set and whole recording
+1 hr wednesday working on extracting states from spindles
+2 Hours Thursday going back and redoing cleaning because initially included commas didn't work numerically
+1 hour Friday getting new dataset
+Week 2:
+2.5 hours monday analyzing new eyes closed/eyes open datasets
+2 hours tuesday graphing data
+2 hours wednesday plotting EC/EO data and deriving amplitude

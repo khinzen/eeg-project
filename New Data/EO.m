@@ -10,4 +10,4 @@ S10EO = cell2mat(struct2cell(load("S10_restingPre_EO.mat")));
 
 EOav = (S2EO + S3EO + S4EO + S5EO + S6EO + S7EO + S8EO + S9EO + S10EO)/9;
 
-EOav = EOav';
+EOav;

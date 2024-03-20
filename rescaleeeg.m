@@ -7,3 +7,6 @@ for ii = [1:width]
     column = rescale(input(:,ii), -1, 1);
     rescaled(:,ii) = column;
 end
+
+
+end

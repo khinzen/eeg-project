@@ -16,6 +16,8 @@ Week 1
 1 hours Monday analyzing new eyes closed dataset
 2 hours Monday afternoon eyes closed analysis and PCA and logistic regression research
 3 hours Tuesday testing pca and logistic regression on various data, researching alternate analysis methods
+1.5 hours examining eeg channel differences, finding metrics, writing function to find amplitude
+
 
 Matt Hour Log:
 

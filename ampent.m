@@ -6,7 +6,7 @@ result = zeros(1,2);
 
 for ii = [1:200:(length-200)]
 
-    block = input([ii, ii+200], 66)
+    block = input([ii, ii+200], 66);
     amp = max(block) - min(block);
     if open == 1
         result = [result; amp 1];

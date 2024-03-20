@@ -31,4 +31,5 @@ Week 1:
 Week 2:
 2.5 hours monday analyzing new eyes closed/eyes open datasets
 2 hours tuesday graphing data
-2 hours wednesday plotting EC/EO data and deriving amplitude
+1.5 hours wednesday plotting EC/EO data 
+45 min wednesday rescaling data/finding amplitude

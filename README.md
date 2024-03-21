@@ -1,6 +1,9 @@
 # eeg-project
 CLPS 0950 First Project
 
+Video Presentation Link: https://drive.google.com/file/d/1CvCcL453AmZdOVvMPXaQOrL18DfRnW-y/view?usp=drive_link
+
+
 Krishan Hour Log:
 
 Week 1
@@ -37,4 +40,7 @@ Week 2:
 2.5 hours monday analyzing new eyes closed/eyes open datasets
 2 hours tuesday graphing data
 1.5 hours wednesday plotting EC/EO data 
-45 min wednesday rescaling data/finding amplitude
+1 hour wednesday rescaling data/finding amplitude
+2 hr thursday creating powerpoint, commenting, presenting
+
+17.5 hours total

@@ -12,12 +12,17 @@ Week 1
 2.5 Hours Wednesday extracting summary stats from each spindle\
 2 Hours Thursday going back and redoing cleaning because initially included commas didn't work numerically\
 1 hour Friday getting new dataset\
+
+Week 2\
+
 30 min Sunday importing data set\
 1 hours Monday analyzing new eyes closed dataset\
 2 hours Monday afternoon eyes closed analysis and PCA and logistic regression research\
 3 hours Tuesday testing pca and logistic regression on various data, researching alternate analysis methods\
 1.5 hours Wednesday examining eeg channel differences, finding metrics, writing function to find amplitude\
+2.5 hours Thursday running analysis, generating figures, finishing powerpoint\
 
+22.5 hours total
 
 Matt Hour Log:
 

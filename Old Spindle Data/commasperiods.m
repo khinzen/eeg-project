@@ -1,4 +1,6 @@
 function [periods] = commasperiods(stringeeg)
+% this function converts the formating of the matrices(imported as 
+% string vectors) from having commas to start decimals to having periods
 
 tmp_periods = strrep(stringeeg, ',', '.');
 [length, width] = size(tmp_periods)

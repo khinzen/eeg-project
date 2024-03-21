@@ -1,4 +1,5 @@
 function [rescaled] = rescaleeeg(input)
+% rescales the data between -1 and 1
 
 [length, width] = size(input)
 rescaled = zeros(length, width)

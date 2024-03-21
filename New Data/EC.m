@@ -1,3 +1,5 @@
+%loads eyes closed data and converts to matrices, and calculates average  
+
 S2EC = cell2mat(struct2cell(load("S02_restingPre_EC.mat")));
 S3EC = cell2mat(struct2cell(load("S03_restingPre_EC.mat")));
 S4EC = cell2mat(struct2cell(load("S04_restingPre_EC.mat")));

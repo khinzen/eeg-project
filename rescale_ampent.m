@@ -1,3 +1,6 @@
+% rescales and runs all data through ampent.m, then puts together the 
+% results into a single vertical matrix
+
 rs2ec = rescaleeeg(S2EC');
 as2ec = ampent(rs2ec,0);
 rs2eo = rescaleeeg(S2EO');

@@ -1,5 +1,6 @@
 function [split] = block_analysis(data)
-
+% attempt to split data into blocks (unsucessful) 
+% look instead at separate.m
 split = [];
 block = [];
 number = 1;

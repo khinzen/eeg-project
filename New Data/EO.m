@@ -1,3 +1,5 @@
+%loads eyes open data and converts to matrices, and calculates average
+
 S2EO = cell2mat(struct2cell(load("S02_restingPre_EO (1).mat")));
 S3EO = cell2mat(struct2cell(load("S03_restingPre_EO.mat")));
 S4EO = cell2mat(struct2cell(load("S04_restingPre_EO.mat")));

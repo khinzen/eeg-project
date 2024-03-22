@@ -1,7 +1,7 @@
 # eeg-project
 CLPS 0950 First Project
 
-Video Presentation Link: https://drive.google.com/file/d/1CvCcL453AmZdOVvMPXaQOrL18DfRnW-y/view?usp=drive_link
+Video Presentation Link: https://drive.google.com/file/d/1RBJoDFQQ3StUcLMt_IG92g_g0SYux8gk/view?usp=sharing
 
 
 Krishan Hour Log:
